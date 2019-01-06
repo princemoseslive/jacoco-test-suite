@@ -47,7 +47,7 @@ git checkout docker
     ```
 1. Access the SonarQube Analysis under http://localhost:9000 and see the coverage report. It should say 0% of your code is covered. 
 
-![alt text] (https://github.com/princemoseslive/jacoco-test-suite/blob/docker/Before-App-With-values.png)
+![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/docker/Before-App-With-values.png)
 
 1. Access the sample application under http://localhost:8888/jacoco-example. Do some math calculations to see the analysis work.
 
@@ -63,11 +63,11 @@ git checkout docker
     ```
 1. Access the SonarQube Analysis under http://localhost:9000 and see the coverage report. 
 
-![alt text] (https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-With-Values.png)
+![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-With-Values.png)
 
-![alt text] (https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-with-Values-1.png)
+![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-with-Values-1.png)
 
-![alt text] (https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-with-Values-2.png)
+![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-with-Values-2.png)
 
 
 
