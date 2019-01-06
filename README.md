@@ -49,19 +49,19 @@ git checkout docker
 
 ![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/docker/Before-App-With-values.png)
 
-1. Access the sample application under http://localhost:8888/jacoco-example. Do some math calculations to see the analysis work.
+7. Access the sample application under http://localhost:8888/jacoco-example. Do some math calculations to see the analysis work.
 
-1. Fetch the JaCoCo Dump again:
+8. Fetch the JaCoCo Dump again:
 
     ```
     mvn jacoco:dump -Djacoco.address=app
     ```
-1. Run the SonarQube Analysis again:
+9. Run the SonarQube Analysis again:
 
     ```
     mvn sonar:sonar -Dsonar.host.url=http://sonar:9000
     ```
-1. Access the SonarQube Analysis under http://localhost:9000 and see the coverage report. 
+10. Access the SonarQube Analysis under http://localhost:9000 and see the coverage report. 
 
 ![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/docker/After-App-With-Values.png)
 
