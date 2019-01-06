@@ -28,5 +28,5 @@ Clicking on each method in above figure gives detailed report. Here it shows gre
 ![alt text](https://github.com/princemoseslive/jacoco-test-suite/blob/master/Jacoco-Image2.png)
 
 ## Built With
-Maven 3.3.9
-Java 8
+* Maven 3.3.9
+* Java 8
